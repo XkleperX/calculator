@@ -68,5 +68,3 @@ This flowchart outlines the steps of the calculator program:
    - If the user wants to start a new calculation, repeat steps 2-6.
    - If the user wants to stop, exit the
 
-Fuck you
-
